@@ -1,5 +1,5 @@
 
-# Broken Down Studio  ![Logo](https://raw.githubusercontent.com/Broke-Down-Studio/.github/main/Assets/Brand/Logo.png)
+# Broken Down Studio  ![Logo](https://raw.githubusercontent.com/Broke-Down-Studio/.github/main/Assets/Brand/Banner.png)
 
 
 # Who we are
